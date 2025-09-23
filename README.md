@@ -40,8 +40,8 @@ Hola, soy **Jesús Higuera** (alias *Kakmanzoo*), desarrollador de software con 
 ## 📫 Contacto
 
 - 📍 Colombia  
-- 💼 [LinkedIn - Jesús Higuera Losada](https://www.linkedin.com/in/jes%C3%BAs-higuera-losada-659973293/)  
-- 📧 kakmanzoo@gmail.com
+- 💼 [LinkedIn - Jesús Higuera Losada](www.linkedin.com/in/jesús-higuera-losada-a947b3329)  
+- 📧 jesusxamir22@gmail.com
 
 ---
 

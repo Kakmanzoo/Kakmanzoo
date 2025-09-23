@@ -15,8 +15,8 @@ Hola, soy **Jesús Higuera** (alias *Kakmanzoo*), desarrollador de software con 
 
 ## 🚀 Tecnologías y Herramientas
 
-- **Lenguajes:** C#, JavaScript, HTML, CSS  
-- **Frameworks:** .NET, ASP.NET, WinForms  
+- **Lenguajes:** C#, JavaScript, HTML, CSS, Java, Python  
+- **Frameworks:** .NET, ASP.NET, WinForms, React  
 - **Herramientas:** Visual Studio, Git, GitHub  
 - **Otros:** SQL Server, diseño de bases de datos, patrones de diseño
 

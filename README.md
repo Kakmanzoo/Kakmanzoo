@@ -26,7 +26,7 @@ Passionate about building tools that eliminate manual work. I combine automation
 
 | Project | Description | Stack |
 |---|---|---|
-| **AR System @ Nestlé** | Augmented Reality solution piloted at Bugalagrande factory | AR · Microsoft ecosystem |
+| **AR System** | Augmented Reality solution piloted in factory environments | AR · Microsoft ecosystem |
 | **[NexusPrime](https://github.com/Kakmanzoo)** | Medical appointment system with SHA-256 auth & custom dark UI | Java · SQLite |
 | **Desktop Translator** | ES→EN translator with system tray & global shortcut | Python · DeepL API |
 | **LUMIEDU** | AI-powered app to support underprivileged students | AI · Education |

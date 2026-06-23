@@ -1,6 +1,4 @@
-# Hi, I'm Jesús Higuera 👋
-
-**Software Engineering Student · IT Workforce 360 @ Nestlé Colombia**
+# Hi :) 
 
 Passionate about building tools that eliminate manual work. I combine automation, desktop development and data science to create practical, real-world solutions.
 
